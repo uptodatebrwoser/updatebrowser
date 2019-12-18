@@ -44,3 +44,4 @@ Open your Mamba editor and run the files to install. Use this:
 	var Sansa = COLS
 	var x = rule(-ROWS + bar(( 930.7265 ),TABLE[-28][COLS]) - -0.54,protect())
 
+For videos around the topic and other coding related mamba things check out this [youtube channel](https://www.youtube.com/channel/UCJCUOG3Ff59y7z0P7W0bFgw).
